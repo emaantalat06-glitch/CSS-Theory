@@ -4,7 +4,7 @@
 
 
 ## Q1. What is CSS and how do you add it to an HTML page?
-**Beginner | 5 Marks**
+
 
 ### What is CSS?
 
@@ -85,7 +85,7 @@ h1 {
 ---
 
 ## Q2. Explain CSS Selectors with examples.
-**Beginner | 8 Marks**
+
 
 CSS selectors are patterns used to **target HTML elements** and apply styles to them.
 
@@ -169,7 +169,7 @@ ul > li {
 ---
 
 ## Q3. What is the CSS Box Model? Explain each layer.
-**Beginner | 7 Marks**
+
 
 Every HTML element is treated as a **rectangular box** made up of four layers, from innermost to outermost:
 
@@ -237,7 +237,7 @@ Every HTML element is treated as a **rectangular box** made up of four layers, f
 ---
 
 ## Q4. Explain CSS Colors. What are the different ways to define a color?
-**Beginner | 6 Marks**
+
 
 CSS supports **five color formats**. Every format can express any color, but they differ in features and use cases.
 
@@ -293,7 +293,7 @@ CSS supports **five color formats**. Every format can express any color, but the
 ---
 
 ## Q5. What are CSS Units? Explain px, %, rem, em, vh, and vw.
-**Beginner | 7 Marks**
+
 
 ### All Six Units Explained
 
@@ -364,7 +364,7 @@ CSS supports **five color formats**. Every format can express any color, but the
 ---
 
 ## Q6. What is CSS Specificity and how does the Cascade work?
-**Intermediate | 8 Marks**
+
 
 When multiple CSS rules target the same element, the browser must decide which rule wins. This is determined by **specificity** and the **cascade**.
 
@@ -440,7 +440,7 @@ p {
 
 
 ## Q7. Explain CSS Flexbox. How does it differ from block layout?
-**Intermediate | 10 Marks**
+
 
 # What is Flexbox?
 
@@ -573,7 +573,7 @@ justify-content vs align-items
 ---
 
 ## Q8. What are CSS Pseudo-classes and Pseudo-elements?
-**Intermediate | 9 Marks**
+
 
 ### Key Difference: `:` vs `::`
 
@@ -675,7 +675,7 @@ input::placeholder {
 ---
 
 ## Q9. Explain CSS Transitions and Animations.
-**Advanced | 10 Marks**
+
 
 ### Transitions vs Animations
 
@@ -793,7 +793,7 @@ input::placeholder {
 ---
 
 ## Q10. What is Responsive Web Design? Explain Media Queries, CSS Variables, and Mobile-First approach.
-**Advanced | 10 Marks**
+
 
 ### Part A — Media Queries
 
